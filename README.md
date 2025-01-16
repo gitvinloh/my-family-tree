@@ -1,3 +1,3 @@
 # My Family Tree
 
-Visit the wesite here: https://github.com/gitvinloh/my-family-tree.git
+Visit the wesite here: https://gitvinloh.github.io/my-family-tree/
